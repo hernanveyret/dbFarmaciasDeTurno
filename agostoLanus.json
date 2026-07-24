@@ -7,63 +7,7 @@
           "dateShift": "",
           "mes": "Enero",
           "pharmacies": [
-            {
-              "id": 1,
-              "name": "BEKER",
-              "lat": -34.69603478360858, 
-              "lon": -58.39461137582129,
-              "addres": "Int. Manuel Quindimil 270, 1824 Lanús",
-              "tel": "4241-0036"
-            },
-            {
-              "id": "2",
-              "name": "CROUZA",
-              "lat": -34.704792789880564, 
-              "lon": -58.4159283623268,
-              "address": "Pres. Santiago Derqui 1687, 1824 Lanús",
-              "tel": "4247-7073/4"
-            },
-            {
-              "nombre": "ESCALADA",
-              "lat": -34.72684935291825,
-              "lon": -58.3961252911609,
-              "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
-              "telefono": "4242-3276"
-            },
-            {
-              "nombre": "LA PAZ",
-              "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
-              "telefono": "4241-9285"
-            },
-            {
-              "nombre": "NESTORE",
-              "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
-              "telefono": "4218-2649"
-            },
-            {
-              "nombre": "NUEVA MOURIN",
-              "lat": -34.70760495652495,
-              "lon": -58.39192740650342,
-              "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
-              "telefono": "4247-4745"
-            },
-            {
-              "nombre": "SANTA ISABEL",
-              "direccion": "Eva Perón 2570, 1824 Lanús",
-              "telefono": "4247-1882"
-            },
-            {
-              "nombre": "MENDOZA",
-              "direccion": "Fray José Wenceslao Achával 2751, 1826 Remedios de Escalada",
-              "telefono": "4246-8627"
-            },
-            {
-              "nombre": "SAN JOSE",
-              "direccion": "Juan Domingo Peron 2401, 1822 Valentín Alsina",
-              "telefono": "4208-8362"
-            }
-          ]
-        },
+            
         {
           "dia": 2,
           "dateShift": "",
